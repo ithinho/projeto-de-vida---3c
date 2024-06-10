@@ -25,4 +25,16 @@ margin: 0 auto;
     width: 100%;
     font-size: 32px;
 }
-ç
+
+.titulo-principal{
+    color: var(--verde);
+}
+
+.botao{
+    font-family: "chakra petch", sans-serif;
+    background-color: var(--botao-inativo);
+    color: var(--branco);
+    display: flex;
+    
+}
+
